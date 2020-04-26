@@ -1,17 +1,17 @@
 # Site settings
-title:          തറക്കല്ല്‌
-description:    "oru blog"
+title:          Second Language
+description:    "A typical malayalam blog"
 baseurl:        "/"
-url:            "https://chesterhow.github.io"
+url:            "https://secondlanguage.ml"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Vinu K
+  url:          https://gnulinuxmate.com
+  email:        vinu@gnulinuxmate.com
 
 # Build settings
 markdown:       kramdown
