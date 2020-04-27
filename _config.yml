@@ -1,7 +1,7 @@
 # Site settings
 title:          Second Language
 description:    "A typical malayalam blog"
-baseurl:        "/secondlanguage"
+baseurl:        "/"
 url:            "https://kevy-vinu.github.io"
 
 # Google Analytics
