@@ -1,7 +1,7 @@
 # Site settings
 title:          Second Language
 description:    "A typical malayalam blog"
-baseurl:        "/"
+baseurl:        "/secondlanguage"
 url:            "https://secondlanguage.ml"
 
 # Google Analytics
