@@ -1,8 +1,8 @@
 # Site settings
 title:          "നാര.ങ്ങ"
-description:    "A typical malayalam blog"
+description:    "A good collection of short stories"
 baseurl:        "/"
-url:            "https://kevy-vinu.github.io"
+url:            "https://naran.ga"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
