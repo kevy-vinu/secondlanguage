@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Vinu"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+A cousin of mine writes short stories. One sunny day, I asked if he wanted a blog to showcase his works and he agreed. I decided to create a minimal whitepaper-like-blog that people can just simply read. After a long research, I stumbled upon this beautiful blog template from a developer Mr.[Chester How](https://github.com/chesterhow).
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Here we publish [malayalam](https://en.wikipedia.org/wiki/Malayalam) contents only. And in this moment, I would like to ask, മലയാളം മലയാളികൾക്ക് സെക്കന്റ് ലാംഗ്വേജ് ആണോ? That's how I came up with this (maybe strange) blog title.
 
 ## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Feel free to create some content here by mailing my [cousin](mailto:kuttz.arun.gmail.com) your works.
 
 Thanks for reading!
