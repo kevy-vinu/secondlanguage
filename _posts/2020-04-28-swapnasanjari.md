@@ -2,6 +2,7 @@
 layout: post
 title:  "സ്വപ്നസഞ്ചാരി"
 author: "അരുൺ വാസുദേവൻ"
+date: 2020-04-28
 categories: [ stories ]
 comments: true
 ---
