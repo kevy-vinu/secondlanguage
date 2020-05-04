@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ആവർത്തനങ്ങൾ
-author: വിഷ്ണു രഘുകുമാർ
+author: വിഷ്ണു രഘുനാഥ്
 comments: true
 date: 2020-05-03
 category: stories
