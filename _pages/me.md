@@ -13,4 +13,4 @@ Lol! I do not know. It just came as I love the color yellow. I listen to my gut.
 
 <kbd> <img src="https://raw.githubusercontent.com/kevy-vinu/naran.ga/8619d781168b33fc3a21e9a1ffe4f48d3d36a329/assets/me.jpeg"/> </kbd>
 
-Peace, Love, Meditate!
+Peace, Meditate, Nature!
