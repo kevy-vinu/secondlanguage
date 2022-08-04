@@ -11,6 +11,6 @@ Hey! I'm keerthana. Thank you for stopping by. This is my personal blog where I 
 And why the name naran.ga?
 Lol! I do not know. It just came as I love the color yellow. I listen to my gut.
 
-<kbd> <img src="https://github.com/kevy-vinu/naran.ga/blob/8619d781168b33fc3a21e9a1ffe4f48d3d36a329/assets/me.jpeg" /> </kbd>
+<kbd> <img src="https://raw.githubusercontent.com/kevy-vinu/naran.ga/8619d781168b33fc3a21e9a1ffe4f48d3d36a329/assets/me.jpeg"/> </kbd>
 
 Peace, Love, Meditate!
