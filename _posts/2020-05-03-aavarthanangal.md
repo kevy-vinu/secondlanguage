@@ -5,6 +5,7 @@ author: വിഷ്ണു രഘുനാഥ്
 comments: true
 date: 2020-05-03
 category: stories
+published: false
 ---
 
 യാത്ര തുടങ്ങുകയായ്...
