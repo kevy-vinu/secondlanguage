@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comming Soon!"
+title:  "Coming Soon!"
 author: "Keerthana M S"
 date: 2022-08-04
 categories: [ story ]
